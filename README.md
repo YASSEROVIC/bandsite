@@ -12,5 +12,5 @@ A responsive website created for Broadway Bird Records as part of my internship 
 4. **Image Gallery**: The website features a visually appealing gallery, showcasing multiple images related to Broadway Bird Records and their artists.
 5. **Responsive Design**: The website is fully responsive, providing an optimal user experience across various devices, including mobile phones.
 
-![Mobile view screenshot](mobile-view-screenshot.png)
+![Mobile view screenshot](mobile-view-screenshot.jpg)
 
